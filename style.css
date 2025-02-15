@@ -269,3 +269,14 @@ form .btn{
     margin: 20px auto 10px;
     cursor: pointer;
 }
+
+.contact{
+    padding: 50px;
+    background-image: url("images/account.jpg");
+}
+
+.contact .form-container{
+    height: auto;
+    width: 50%;
+    margin: auto;
+}
